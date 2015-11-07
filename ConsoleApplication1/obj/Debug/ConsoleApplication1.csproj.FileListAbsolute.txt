@@ -7,3 +7,6 @@ c:\users\олег\documents\visual studio 2013\Projects\Snake\ConsoleApplication
 C:\Users\Олег\Documents\Visual Studio 2013\Projects\MeSnake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Олег\Documents\Visual Studio 2013\Projects\MeSnake\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Олег\Documents\Visual Studio 2013\Projects\MeSnake\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Олег\Documents\Visual Studio 2013\Projects\MeSnake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Олег\Documents\Visual Studio 2013\Projects\MeSnake\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Олег\Documents\Visual Studio 2013\Projects\MeSnake\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
