@@ -10,23 +10,19 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point(1, 1, '*');
-            p1.Draw();
+            Console.SetBufferSize(80, 25);
 
-            Point p2 = new Point(1, 2, '*');
-            p2.Draw();
+            HorizontalLine upLine = new HorizontalLine(0, 78, 0, '+');
+            upLine.Drow();
 
-            Point p3 = new Point(1, 3, '*');
-            p3.Draw();
+            HorizontalLine downLine = new HorizontalLine(0, 78, 24, '+');
+            downLine.Drow();
 
-            Point p4 = new Point(1, 4, '#');
-            p4.Draw();
+            VerticalLine leftLine = new VerticalLine(0, 24, 0, '+');
+            leftLine.Drow();
 
-            List<Point> numList = new List<Point>();
-            numList.Add(p1);
-            numList.Add(p2);
-            numList.Add(p3);
-            numList.Add(p4);
+            VerticalLine rightLine = new VerticalLine(0, 24, 78, '+');
+            rightLine.Drow();
 
             Console.ReadLine();
         }
